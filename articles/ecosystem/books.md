@@ -29,6 +29,22 @@ of Clojure (1.3+).
 Note: books are listed in reverse chronological order.
 
 
+### Clojure for Finance
+
+By Timothy Washington
+
+#### Notes
+
+Leverage the power and flexibility of the Clojure language for finance.
+
+If you’re a finance professional who is currently using VBA (Excel) to perform financial calculations and quantitative analysis, and would like to use Clojure instead to improve their efficiency, then this book is for you. Starting with the importance of representing data and calculations effectively, this book will take you all the way to being competent in financial analytics and building financial applications. 
+
+#### Where You Can Buy It
+
+* [Packt Publishing](https://www.packtpub.com/big-data-and-business-intelligence/clojure-finance):  eBook, paperback
+
+
+
 ### Mastering Clojure Macros
 
 By Colin Jones.
