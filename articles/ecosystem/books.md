@@ -41,7 +41,7 @@ If you’re a finance professional who is currently using VBA (Excel) to perform
 
 #### Where You Can Buy It
 
-* [Packt Publishing](https://www.packtpub.com/big-data-and-business-intelligence/clojure-finance):  eBook, paperback
+* [Packt Publishing](https://www.packtpub.com/big-data-and-business-intelligence/clojure-finance):  paperback, eBook
 
 
 
