@@ -29,6 +29,24 @@ of Clojure (1.3+).
 Note: books are listed in reverse chronological order.
 
 
+### Clojure Programming Cookbook
+
+By Makoto Hashimoto, Nicolas Modrzyk
+
+#### Notes
+
+Handle every problem you come across in the world of Clojure programming with this expert collection of recipes
+
+This book is divided into three high impact sections. The first section gives you an introduction to live programming and best practices. We show you how to interact with your connections by manipulating, transforming, and merging collections. You’ll learn how to work with macros, protocols, multi-methods, and transducers. We’ll also teach you how to work with languages such as Java, and Scala.
+The next section deals with intermediate-level content and enhances your Clojure skills, here we’ll teach you concurrency programming with Clojure for high performance. We will provide you with advanced best practices, tips on Clojure programming, and show you how to work with Clojure while developing applications.
+In the final section you will learn how to test, deploy and analyze websocket behavior when your app is deployed in the cloud. Finally, we will take you through DevOps. Developing with Clojure has never been easier with these recipes by your side!
+
+#### Where You Can Buy It
+
+* [Packt Publishing](https://www.packtpub.com/application-development/clojure-programming-cookbook):  paperback, eBook
+
+
+
 ### Mastering Clojure
 
 By Akhil Wali
